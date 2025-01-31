@@ -1,0 +1,15 @@
+name: elevation_analysis_env
+channels:
+  - conda-forge
+  - defaults
+  - https://repo.anaconda.com/pkgs/main
+  - https://repo.anaconda.com/pkgs/r
+  - https://repo.anaconda.com/pkgs/msys2
+dependencies:
+  - python=3.10.16
+  - geopandas=1.0.1
+  - rasterio=1.4.3
+  - numpy=2.2.2
+  - tqdm=4.67.1
+  - requests=2.32.3
+prefix: C:\Users\goali\anaconda3\envs\elevation_analysis_env
